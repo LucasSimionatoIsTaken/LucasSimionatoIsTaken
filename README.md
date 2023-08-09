@@ -1,8 +1,8 @@
 # Olá, seja bem vindo! Sou o Lucas. Programador 👨‍💻 e Professor 👨‍🏫.
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassimionatooficial&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatooficial&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassimionatooficial&show_icons=true&theme=blue"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatooficial&layout=compact&theme=blue"/>
 </div>
 <br>
 
