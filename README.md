@@ -22,7 +22,7 @@
 ## Formação Acadêmica
 🖥️ Técnico em Desenvolvimento de Sistemas - SENAI
 
-## Certificações
+<!-- ## Certificações
 <div align="center">
   
-</div>
+</div> --->
