@@ -1,8 +1,8 @@
-# Hey!
+# Olá!
 
-<p>I'm a experienced developer and dedicated educator with a passion for technology.</p>
+<p>Sou um desenvolvedor experiente e professor dedicado, apaixonado por tecnologia.</p>
 
-## Skills
+## Habilidades
 
 <div align="center">
   <img alt="C#"         height="36" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -17,7 +17,7 @@
   <img alt="Mongo DB"   height="36" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-## Stats
+## Status
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucassimionatooficial&show_icons=true&theme=tokyonight"/>
