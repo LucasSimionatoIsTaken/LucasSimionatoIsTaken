@@ -2,7 +2,7 @@
 
 <p>I'm a experienced developer and dedicated educator with a passion for technology.</p>
 
-## Languages
+## Stack
 
 <div align="center">
   <img alt="C#"         height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -11,16 +11,9 @@
   <img alt="Typescript" height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img alt="PHP"        height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Java"       height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
-</div>
-
-## Front-End Frameworks
-<div align="center">
   <img alt="React JS"   height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular"    height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img alt="Bootstrap"  height="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-</div>
-
-<div>
   <img alt="Node JS"    height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="My SQL"     height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-line-wordmark.svg">
   <img alt="My SQL"     height="54" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
