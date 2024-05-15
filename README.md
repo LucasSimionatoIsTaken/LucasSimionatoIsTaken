@@ -32,7 +32,6 @@
   <img alt="Javascript" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="PHP"        height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img alt="Java"       height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="Dotnet"     height="70" src="https://github.com/LucasSimionatoIsTaken/LucasSimionatoIsTaken/assets/73192580/c61af79b-e381-4247-9081-52b110555bcf">
 </div>
 <br>
 
@@ -41,4 +40,5 @@
   <img alt="ReactJS"   height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Angular"   height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img alt="Bootstrap" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img alt="Dotnet"     height="70" src="https://github.com/LucasSimionatoIsTaken/LucasSimionatoIsTaken/assets/73192580/c61af79b-e381-4247-9081-52b110555bcf">
 </div>
