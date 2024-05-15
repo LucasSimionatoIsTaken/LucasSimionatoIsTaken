@@ -19,7 +19,7 @@
       <td>Paraconsistent API</td>
       <td>An open source AI based on Paraconsistent Logic</td>
       <td><span style="font-size:0.5em;">🟡</span> Doing</td>
-      <td>~~<a href="https://www.youtube.com/watch?v=wbby9coDRCk">Link</a>~~</td>
+      <td><a href="https://www.youtube.com/watch?v=wbby9coDRCk"><s>Link</s></a></td>
     </tr>
   </tbody>
 </table>
