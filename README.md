@@ -26,7 +26,7 @@
 
 ## 🎓 Education
 
-💡 Technician in Systems Analysis and Development - SENAI
+💡 Technician in Systems Development - SENAI
 <br>
 🖥️ Degree in System Analysis and Development - FIAP
 <br>
