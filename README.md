@@ -56,8 +56,16 @@
 ## 🚀 Stats
 
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=tokyonight&layout=compact&langs_count=7"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=default&include_all_commits=true&count_public=true">
+    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=tokyonight&layout=compact&langs_count=7">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=default&layout=compact&langs_count=7">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=tokyonight&layout=compact&langs_count=7">
+  </picture>
 </div>
 
 
