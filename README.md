@@ -2,7 +2,7 @@
 
 <p>I'm Lucas, an experienced developer and educator.</p>
 
-## 💻 Tools
+## 💻 Tech Stack
 <div align="left">
   
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -22,7 +22,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+## 🛠️ Projects
 
 <table>
   <thead>
