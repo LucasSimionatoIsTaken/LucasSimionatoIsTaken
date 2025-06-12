@@ -2,6 +2,29 @@
 
 <p>I'm Lucas, an experienced developer and educator.</p>
 
+
+## 🛠️ Projects
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Status</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Base C# Project</td>
+      <td>An DDD based project structure</td>
+      <td>🟡Doing</td>
+      <td><a href="https://github.com/LucasSimionatoIsTaken/C-Back-Pattern">Link</a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 ## 💻 Tech Stack
 
 ### Front-End
@@ -35,28 +58,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 </div>
 
-<br>
-
-## 🛠️ Projects
-
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Status</th>
-      <th>Repository</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Base C# Project</td>
-      <td>An DDD based project structure</td>
-      <td>🟡Doing</td>
-      <td><a href="https://github.com/LucasSimionatoIsTaken/C-Back-Pattern">Link</a></td>
-    </tr>
-  </tbody>
-</table>
 <br>
 
 <!---
