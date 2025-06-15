@@ -18,7 +18,7 @@
       <td>Base C# Project</td>
       <td>A DDD-based project structure</td>
       <td>🟡Doing</td>
-      <td><a href="https://github.com/LucasSimionatoIsTaken/C-Back-Pattern">Link</a></td>
+      <td><a href="https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate">Link</a></td>
     </tr>
   </tbody>
 </table>
