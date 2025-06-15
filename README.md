@@ -15,7 +15,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Base C# Project</td>
+      <td>C# DDD Boilerplate</td>
       <td>A DDD-based project structure</td>
       <td>🟡Doing</td>
       <td><a href="https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate">Link</a></td>
