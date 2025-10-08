@@ -50,20 +50,3 @@ I'm Lucas, an experienced developer and educator.
     </td>
   </tr>
 </table>
-
----
-
-## 📊 Github Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true&hide_border=true">
-    <source media="(pre-fers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=default&include_all_commits=true&count_public=true&hide_border=true">
-    <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=LucasSimionatoIsTaken&show_icons=true&theme=tokyonight&include_all_commits=true&count_public=true&hide_border=true">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=tokyonight&layout=compact&langs_count=7&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=default&layout=compact&langs_count=7&hide_border=true">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSimionatoIsTaken&theme=tokyonight&layout=compact&langs_count=7&hide_border=true">
-  </picture>
-</div>
