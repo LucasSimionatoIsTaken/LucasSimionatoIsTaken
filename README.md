@@ -7,7 +7,7 @@
 ### 📌 C# DDD Boilerplate  
 **Description:** Boilerplate for .NET APIs, based on DDD principles, designed to be easy to use and highly scalable.  
 **Status:** 🟡 In progress. 
-**Repositório:** [github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate](https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate)
+**Repository:** [github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate](https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate)
 
 ## 💻 Tech Stack
 
