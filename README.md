@@ -9,7 +9,6 @@ I'm Lucas, an experienced developer and educator.
 **Status:** 🟡 In progress. <br>
 **Repository:** [github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate](https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate)
 
-
 ## 💻 Skills
 
 <table>
@@ -50,3 +49,10 @@ I'm Lucas, an experienced developer and educator.
     </td>
   </tr>
 </table>
+
+## Stats
+
+[![Status](https://github-readme-stats.vercel.app/api?username=lucassimionatoistaken&show_icons=true&theme=default&count_private=true&include_all_commits=true)](https://github.com/LucasSimionatoIsTaken#gh-light-mode-only)
+[![Status](https://github-readme-stats.vercel.app/api?username=lucassimionatoistaken&show_icons=true&theme=transparent&count_private=true&count_private=true&include_all_commits=true)](https://github.com/LucasSimionatoIsTaken#gh-dark-mode-only#gh-dark-mode-only)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatoistaken&layout=compact&langs_count=7&theme=default)](https://github.com/LucasSimionatoIsTaken#gh-light-mode-only)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatoistaken&layout=compact&langs_count=7&theme=transparent)](https://github.com/LucasSimionatoIsTaken#gh-dark-mode-only)
