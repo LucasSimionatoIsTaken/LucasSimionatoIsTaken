@@ -2,13 +2,6 @@
 
 I'm Lucas, an experienced developer and educator.
 
-## Projects
-
-### 📌 C# DDD Boilerplate  
-**Description:** Boilerplate for .NET APIs, based on DDD principles, designed to be easy to use and highly scalable.  
-**Status:** 🟡 In progress. <br>
-**Repository:** [github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate](https://github.com/LucasSimionatoIsTaken/Csharp-DDD-Boilerplate)
-
 ## 💻 Skills
 
 <table>
