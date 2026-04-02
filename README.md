@@ -4,44 +4,15 @@ I'm Lucas, an experienced developer and educator.
 
 ## 💻 Skills
 
-<table>
-  <tr>
-    <td valign="top" width="33.3%">
-      <h2 align="center">Frontend</h2>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-        <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="SASS"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite"/>
-      </div>
-    </td>
-    <td valign="top" width="33.3%">
-      <h2 align="center">Backend</h2>
-      <div align="center">
-        <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-      </div>
-    </td>
-    <td valign="top" width="33.3%">
-      <h2 align="center">Other Tools</h2>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-        <img src="https://img.shields.io/badge/Azure%20DevOps-338de3.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHdpZHRoPSI2MDBweCIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9InVybCgjYXp1cmUtZGV2b3BzLWNvbG9yLTE2X19wYWludDBfbGluZWFyXzcwN18xMTYpIiBkPSJNMTUgMy42MjJ2OC41MTJMMTEuNSAxNWwtNS40MjUtMS45NzV2MS45NThMMy4wMDQgMTAuOTdsOC45NTEuN1Y0LjAwNUwxNSAzLjYyMnptLTIuOTg0LjQyOEw2Ljk5NCAxdjIuMDAxTDIuMzgyIDQuMzU2IDEgNi4xM3Y0LjAyOWwxLjk3OC44NzNWNS44NjlsOS4wMzgtMS44MTh6Ii8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhenVyZS1kZXZvcHMtY29sb3ItMTZfX3BhaW50MF9saW5lYXJfNzA3XzExNiIgeDE9IjgiIHgyPSI4IiB5MT0iMTQuOTU2IiB5Mj0iMS4wMjYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIuMTYiIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9Ii41MyIgc3RvcC1jb2xvcj0iI2ZmZiIvPjxzdG9wIG9mZnNldD0iLjgyIiBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+" alt="Azure DevOps"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"/>
-        <img src="https://img.shields.io/badge/Power%20Automate-0f6bf5.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNDggNDgiPjxwYXRoIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNNy45MiA4LjVhMS41IDEuNSAwIDAgMC0xLjE3MiAyLjQzOEwxNy4xOTkgMjRMNi43NDggMzcuMDYyQTEuNSAxLjUgMCAwIDAgNy45MiAzOS41aDIwLjk1OWExLjUgMS41IDAgMCAwIDEuMTcyLS41NjNsMTEuMi0xNGExLjUgMS41IDAgMCAwIDAtMS44NzVsLTExLjItMTRhMS41IDEuNSAwIDAgMC0xLjE3Mi0uNTYzem0yMS41NjQuMTQ1TDE3LjIgMjRtMTguNi03Ljc1TDE3LjE5NiAzOS41Ii8+PC9zdmc+" alt="Power Automate"/>
-        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" alt="WordPress"/>
-      </div>
-    </td>
-  </tr>
-</table>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Backend** | ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Yii](https://img.shields.io/badge/Yii-021C42?style=for-the-badge&logo=Yii&logoColor=white) |
+| **Databases** | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-338de3.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHdpZHRoPSI2MDBweCIgaGVpZ2h0PSI2MDBweCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9InVybCgjYXp1cmUtZGV2b3BzLWNvbG9yLTE2X19wYWludDBfbGluZWFyXzcwN18xMTYpIiBkPSJNMTUgMy42MjJ2OC41MTJMMTEuNSAxNWwtNS40MjUtMS45NzV2MS45NThMMy4wMDQgMTAuOTdsOC45NTEuN1Y0LjAwNUwxNSAzLjYyMnptLTIuOTg0LjQyOEw2Ljk5NCAxdjIuMDAxTDIuMzgyIDQuMzU2IDEgNi4xM3Y0LjAyOWwxLjk3OC44NzNWNS44NjlsOS4wMzgtMS44MTh6Ii8+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJhenVyZS1kZXZvcHMtY29sb3ItMTZfX3BhaW50MF9saW5lYXJfNzA3XzExNiIgeDE9IjgiIHgyPSI4IiB5MT0iMTQuOTU2IiB5Mj0iMS4wMjYiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIuMTYiIHN0b3AtY29sb3I9IiNmZmYiLz48c3RvcCBvZmZzZXQ9Ii41MyIgc3RvcC1jb2xvcj0iI2ZmYiIvPjxzdG9wIG9mZnNldD0iLjgyIiBzdG9wLWNvbG9yPSIjZmZmIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZmZmIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PC9zdmc+) |
+| **Tools** | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgdmlld0JveD0iMCAwIDk2IDk2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmZmZmYiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIxIj4KICAgIDxwYXRoIGQ9Ik0zMy4zMzggNi41NDRoMjYuMDM4bC0yNy4wMyA4MC4wODdhNC4xNTIgNC4xNTIgMCAwIDEtMy45MzMgMi44MjRIOC4xNDlhNC4xNDUgNC4xNDUgMCAwIDEtMy45MjgtNS40N0wyOS40MDQgOS4zNjhhNC4xNTIgNC4xNTIgMCAwIDEgMy45MzQtMi44MjV6Ii8+CiAgICA8cGF0aCBkPSJNNzEuMTc1IDYwLjI2MWgtNDEuMjlhMS45MTEgMS45MTEgMCAwIDAtMS4zMDUgMy4zMDlsMjYuNTMyIDI0Ljc2NGE0LjE3MSA0LjE3MSAwIDAgMCAyLjg0NiAxLjEyMWgyMy4zOHoiLz4KICAgIDxwYXRoIGQ9Ik02Ni41OTUgOS4zNjRhNC4xNDUgNC4xNDUgMCAwIDAtMy45MjgtMi44MkgzMy42NDhhNC4xNDYgNC4xNDYgMCAwIDEgMy45MjggMi44MmwyNS4xODQgNzQuNjJhNC4xNDYgNC4xNDYgMCAwIDEtMy45MjggNS40NzJoMjkuMDJhNC4xNDYgNC4xNDYgMCAwIDAgMy45MjctNS40NzJ6Ii8+Cjwvc3ZnPgo=) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power%20Automate-0f6bf5.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgNDggNDgiPjxwYXRoIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzAwMCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNNy45MiA4LjVhMS41IDEuNSAwIDAgMC0xLjE3MiAyLjQzOEwxNy4xOTkgMjRMNi43NDggMzcuMDYyQTEuNSAxLjUgMCAwIDAgNy45MiAzOS41aDIwLjk1OWExLjUgMS41IDAgMCAwIDEuMTcyLS41NjNsMTEuMi0xNGExLjUgMS41IDAgMCAwIDAtMS44NzVsLTExLjItMTRhMS41IDEuNSAwIDAgMC0xLjE3Mi0uNTYzem0yMS41NjQuMTQ1TDE3LjIgMjRtMTguNi03Ljc1TDE3LjE5NiAzOS41Ii8+PC9zdmc+) |
+| **Design** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ## Stats
 
