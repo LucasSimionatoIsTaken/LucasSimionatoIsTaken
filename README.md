@@ -16,7 +16,7 @@ I'm Lucas, an experienced developer and educator.
 
 ## Stats
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lucassimionatoistaken&hide_border=false)](https://github.com/LucasSimionatoIsTaken#gh-light-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lucassimionatoistaken&theme=dark&hide_border=false)](https://github.com/LucasSimionatoIsTaken#gh-dark-mode-only#gh-dark-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lucassimionatoistaken&hide_border=false&mode=weekly)](https://github.com/LucasSimionatoIsTaken#gh-light-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=lucassimionatoistaken&theme=dark&hide_border=false&mode=weekly)](https://github.com/LucasSimionatoIsTaken#gh-dark-mode-only#gh-dark-mode-only)
 <!-- [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatoistaken&layout=compact&langs_count=7&theme=default)](https://github.com/LucasSimionatoIsTaken#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassimionatoistaken&layout=compact&langs_count=7&theme=transparent)](https://github.com/LucasSimionatoIsTaken#gh-dark-mode-only) -->
